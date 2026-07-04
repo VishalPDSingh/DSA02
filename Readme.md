@@ -25,30 +25,14 @@ This repository contains my solutions to DSA problems from various platforms alo
 ## 📂 Repository Structure
 
 ```
-DSA/
-│
-├── [ch1_Array](./ch1_Array)
-├── Prefix Sum/
-├── Subarrays/
-├── Kadane's Algorithm/
-├── Searching/
-├── Sorting/
-├── Binary Search/
-├── Strings/
-├── Linked List/
-├── Stack/
-├── Queue/
-├── Recursion/
-├── Backtracking/
-├── Trees/
-├── Binary Search Tree/
-├── Heap/
-├── Hashing/
-├── Graph/
-├── Dynamic Programming/
-├── Greedy/
-├── Bit Manipulation/
-└── Notes/
+## 📂 Repository Structure
+
+- 📁 [ch1_Array](./ch1_Array)
+- 📁 [Prefix Sum](./Prefix-Sum)
+- 📁 [Subarrays](./Subarrays)
+- 📁 [Kadane's Algorithm](./Kadanes-Algorithm)
+- 📁 [Searching](./Searching)
+- 📁 [Sorting](./Sorting)
 ```
 
 > New topics will be added as I continue my DSA journey.
