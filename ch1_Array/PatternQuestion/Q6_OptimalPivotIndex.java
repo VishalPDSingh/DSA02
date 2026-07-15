@@ -255,7 +255,7 @@ public class Q6_OptimalPivotIndex {
 
     public static void main(String[] args) {
 
-        int arr[] = {-2, 6, 3, 4};
+        int arr[] = {-1,-1,0,1,1,-1};
 
         int ans = equilibriumIndex(arr);
 

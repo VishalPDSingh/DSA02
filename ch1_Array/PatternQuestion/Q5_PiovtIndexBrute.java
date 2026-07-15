@@ -179,7 +179,7 @@ public class Q5_PiovtIndexBrute {
 
     public static void main(String[] args) {
 
-        int arr[] = {-2, 6, 3, 4};
+        int arr[] = {1,7,3,6,5,6};
 
         int ans = equilibriumIndex(arr);
 
