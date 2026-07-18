@@ -1,4 +1,4 @@
-package ch2_String.StringMethod;
+package ch4_String.Class2StringMethod;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package ch2_String.IntroOfString;
+package ch4_String.Class1IntroOfString;
 
 import java.util.Scanner;
 

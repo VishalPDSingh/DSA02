@@ -1,4 +1,4 @@
-package ch2_String.IntroOfString;
+package ch4_String.Class1IntroOfString;
 
 public class Demo6_StringBuilder {
     public static void main(String[] args) {
