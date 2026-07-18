@@ -1,4 +1,4 @@
-package ch1_Array;
+package ch1_Array.EasyQuestion;
 
 public class Demo1 {
     public static void main(String[] args) {
