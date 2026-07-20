@@ -36,6 +36,7 @@ public class Q9_Indentity {
         }
 
         System.out.println(isIdentiy(arr));
+
         sc.close();
     }
 }
